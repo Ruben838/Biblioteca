@@ -1,9 +1,9 @@
-# Memoria del Projecte: Gestio d'una Biblioteca
+# Memoria del projecte: Gestio d'una biblioteca
 
 ## Index
 
 1. [Introduccio](#introduccio)
-2. [Analisi de R+requeriments](#analisi-de-requeriments)
+2. [Analisi de requeriments](#analisi-de-requeriments)
 3. [Planificacio](#planificacio)
 4. [Analisi](#analisi)
 5. [Disseny](#disseny)
@@ -24,3 +24,49 @@ Aquest projecte tracta sobre com fer que una biblioteca funcioni millor. Hem pen
 L'objectiu es que els bibliotecaris tinguin mes facil la seva feina i els lectors puguin trobar i agafar llibres sense problemes. 
 La idea es tenir una aplicacio web per als bibliotecaris i una app per a mobil per a la gent que llegeix. 
 En el futur, volem fer que alguns processos es facin automaticament amb drons.
+
+### Objectius i abast del projecte
+
+- **Objectiu principal**: 
+    - Fer que la gestio d'una biblioteca sigui molt mes senzilla i eficient
+- **Objectius secundaris**:
+    - Crear perfils diferents per a usuaris (lectors, bibliotecaris, administradors)
+    - Fer una app movil perque els lectors puguin consultar els llibres i els seus prestecs
+    - Desenvolupar una aplicacio per a web per gestionar tot
+- **Abast**:
+    - En aquesta primera fase, ens centrarem en les funcions basiques, en el futur podrem afegir mes coses
+
+### Justificacio
+
+Amb l'augment de la digitalitzacio, es important que les biblioteques s'adaptin i puguin oferir un bon servei. 
+Voliem fer un sistema que faciliti tant la vida dels bibliotecaris com dels usuaris, perquè tothom pugui gaudir de la lectura!
+
+---
+
+## Analisi de Requeriments
+
+### Requeriments funcionals
+
+1. **Gestio de usuaris**:
+   - Permetre que els usuaris es registrin i tinguin diferents rols.
+   - Donar accés personalitzat segons el rol.
+2. **Gestio de prestecs**:
+   - Registrar quan es prenen i es tornen llibres.
+   - Avisar dels llibres que s'han de retornar.
+3. **Cataleg de llibres**:
+   - Permetre afegir, modificar i eliminar llibres facilment.
+   - Poder buscar llibres per titol, autor, etc.
+
+### Requeriments de dades
+
+Necessitem una base de dades per guardar informacio sobre llibres, usuaris i prestecs. Ha de ser facil de consultar.
+
+### Maquinari
+
+Farem servir un servidor per acollir tot el sistema, i tambe provarem l'aplicacio en mobils per veure com funciona.
+
+### Altres
+
+Cal que el sistema sigui segur i que protegeixi la informacio dels usuaris i dels llibres.
+
+---

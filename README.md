@@ -8,7 +8,7 @@ El proyecto incluye dos aplicaciones: una app Android para usuarios lectores y u
 
 
 ## Indice
-1. [Caracteristicas](#características)
+1. [Caracteristicas](#caracteristicas)
 2. [Estructura del proyecto](#estructura-del-proyecto)
 3. [Tecnologias utilizadas](#tecnologias-utilizadas)
 4. [Instalacion](#instalacion)

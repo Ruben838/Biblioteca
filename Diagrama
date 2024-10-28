@@ -1,0 +1,26 @@
+# Memoria del Projecte: Gestio d'una Biblioteca
+
+## Index
+
+1. [Introduccio](#introduccio)
+2. [Analisi de R+requeriments](#analisi-de-requeriments)
+3. [Planificacio](#planificacio)
+4. [Analisi](#analisi)
+5. [Disseny](#disseny)
+6. [Implementacio](#implementacio)
+7. [Proves d'execucio](#proves-dexecucio)
+8. [Manual d'usuari](#manual-dusuari)
+9. [Conclusions](#conclusions)
+10. [Bibliografia](#bibliografia)
+11. [Annexes](#annexes)
+
+---
+
+## Introduccio
+
+### Resum general del projecte
+
+Aquest projecte tracta sobre com fer que una biblioteca funcioni millor. Hem pensat en crear un sistema que ajudi a gestionar els llibres, els prestecs i els usuaris. 
+L'objectiu es que els bibliotecaris tinguin mes facil la seva feina i els lectors puguin trobar i agafar llibres sense problemes. 
+La idea es tenir una aplicacio web per als bibliotecaris i una app per a mobil per a la gent que llegeix. 
+En el futur, volem fer que alguns processos es facin automaticament amb drons.
